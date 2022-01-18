@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Won DoHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onedoheyn&show_icons=true&theme=radical)
+
 <!--
 **Onedoheyn/Onedoheyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
